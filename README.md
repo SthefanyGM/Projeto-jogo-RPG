@@ -6,27 +6,27 @@ Minha proposta de jogo é baseada em um sistema de RPG estratégico focado em at
 
 Ao iniciar o jogo, o jogador pode escolher entre cinco personagens iniciais, cada um com características próprias. Esses personagens possuem cinco atributos principais:
 
- -Agilidade;
+ - Agilidade;
 
- -Inteligência;
+ - Inteligência;
 
- -Vigor;
+ - Vigor;
 
- -Presença;
+ - Presença;
 
- -Força;
+ - Força;
 
 A soma total dos atributos é sempre limitada a <strong>10</strong> pontos, garantindo equilíbrio entre os personagens. Exemplo:
 
- -Agilidade: 2
+ - Agilidade: 2
 
- -Inteligência: 2
+ - Inteligência: 2
 
- -Vigor: 3
+ - Vigor: 3
 
- -Presença: 1
+ - Presença: 1
 
- -Força: 2
+ - Força: 2
 
 #### Total: 10
 
@@ -44,14 +44,14 @@ O valor do atributo define quantos dados serão lançados, e o maior resultado o
 #### Exemplo:
 Durante uma luta, um personagem possui:
 
- -Força = 3
+ - Força = 3
 
 Isso significa que ele poderá rolar 3 dados d20.
 Resultados:
 
- -Dado  = 5
- -Dado 2 = 16
- -Dado 3 = 10
+ - Dado  = 5
+ - Dado 2 = 16
+ - Dado 3 = 10
 
 Nesse caso, o maior valor foi o do <strong>Dado 2</strong>, com resultado <strong>16</strong>, então esse será o número validado para a ação.
 
@@ -69,15 +69,15 @@ As perícias influenciam diretamente nas ações realizadas durante o jogo, prin
 
 Por exemplo, um personagem com:
 
- -Força = 1
+ - Força = 1
 
- -Sem perícia de luta
+ - Sem perícia de luta
 
 terá uma abordagem <strong>muito menos eficiente</strong> em combate físico quando comparado a um personagem com:
 
- -Força = 3
+ - Força = 3
 
- -Perícia de luta = 5
+ - Perícia de luta = 5
 
 Isso torna cada encontro único e estratégico.
 
@@ -88,17 +88,17 @@ Isso torna cada encontro único e estratégico.
 
 Durante a exploração do mundo, o jogador poderá encontrar animais e criaturas. Ao interagir com esses elementos, diferentes opções poderão aparecer, como:
 
- -Atacar;
+ - Atacar;
  
- -Observar;
+ - Observar;
  
- -Conversar;
+ - Conversar;
  
- -Fugir;
+ - Fugir;
  
- -Intimidar;
+ - Intimidar;
  
- -Negociar;
+ - Negociar;
 
 As opções mais eficazes dependerão diretamente do personagem escolhido e de suas perícias.
 
@@ -108,11 +108,11 @@ Um personagem com:
 <strong>Perícia Furtividade = +5</strong>
 poderá encontrar situações em que a opção:
 
- -Atacar;
+ - Atacar;
  
- -**Observar (recomendado)**;
+ - **Observar (recomendado)**;
  
- -Conversar;
+ - Conversar;
 
 apareça com destaque para “Observar”.
 
@@ -184,15 +184,15 @@ Um dos principais objetivos do projeto é garantir que cada nova partida ofereç
 
 As combinações entre:
 
-atributos;
+- atributos;
 
-perícias;
+- perícias;
 
-escolhas do jogador;
+- escolhas do jogador;
 
-resultados dos dados;
+- resultados dos dados;
 
-estilos de combate;
+- estilos de combate;
 
 
 fazem com que cada gameplay se desenvolva de maneira única.
